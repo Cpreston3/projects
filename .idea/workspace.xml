@@ -19,7 +19,11 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d1a7b465-c6f8-410e-aa82-b2b42a0a3a07" name="Default Changelist" comment="deleted a directory" />
+    <list default="true" id="d1a7b465-c6f8-410e-aa82-b2b42a0a3a07" name="Default Changelist" comment="deleted a directory">
+      <change afterPath="$PROJECT_DIR$/Color Game Project/ReadMe.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Color Game Project/colorGame.css" beforeDir="false" afterPath="$PROJECT_DIR$/Color Game Project/colorGame.css" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -38,6 +42,12 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="dart.analysis.tool.window.visible" value="false" />
     <property name="last_opened_file_path" value="$USER_HOME$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
@@ -58,7 +68,7 @@
       <workItem from="1603403767389" duration="269000" />
       <workItem from="1603406374004" duration="982000" />
       <workItem from="1603407382588" duration="105000" />
-      <workItem from="1603568953608" duration="464000" />
+      <workItem from="1603568953608" duration="2222000" />
     </task>
     <task id="LOCAL-00001" summary="moved read me file">
       <created>1603406735836</created>
@@ -74,7 +84,14 @@
       <option name="project" value="LOCAL" />
       <updated>1603407152314</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="committed unversioned Files">
+      <created>1603569604891</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1603569604891</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -95,7 +112,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="moved read me file" />
     <MESSAGE value="deleted a directory" />
-    <option name="LAST_COMMIT_MESSAGE" value="deleted a directory" />
+    <MESSAGE value="committed unversioned Files" />
+    <option name="LAST_COMMIT_MESSAGE" value="committed unversioned Files" />
   </component>
   <component name="WindowStateProjectService">
     <state x="743" y="311" width="424" height="491" key="FileChooserDialogImpl" timestamp="1603398877800">
@@ -106,10 +124,10 @@
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
     <state x="676" y="406" width="275" height="207" key="Github.ShareDialog/0.27.1920.1053/1920.0.1280.1024@0.27.1920.1053" timestamp="1603407432465" />
-    <state x="890" y="226" width="800" height="535" key="Vcs.Push.Dialog.v2" timestamp="1603407467261">
+    <state x="890" y="226" width="800" height="535" key="Vcs.Push.Dialog.v2" timestamp="1603569712723">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
-    <state x="890" y="226" width="800" height="535" key="Vcs.Push.Dialog.v2/0.27.1920.1053/1920.0.1280.1024@0.27.1920.1053" timestamp="1603407467261" />
+    <state x="890" y="226" width="800" height="535" key="Vcs.Push.Dialog.v2/0.27.1920.1053/1920.0.1280.1024@0.27.1920.1053" timestamp="1603569712723" />
     <state x="597" y="420" width="433" height="179" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1603407318313">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
